@@ -160,6 +160,7 @@ footer ul {
 }
 footer li {
     display: inline-block;
+    margin: 1.5rem;
 }
 footer li a {
     border-radius: 4px;
@@ -167,7 +168,6 @@ footer li a {
     color: #795548;
     background-color: #FFF9C4;
     padding: .5rem;
-    margin: 1rem;
 }
 footer li a:hover {
     color:  #D7CCC8;
