@@ -167,8 +167,7 @@ footer li a {
     color: #795548;
     background-color: #FFF9C4;
     padding: .5rem;
-    margin-bottom: 10px;
-    margin-top: 10px;
+    float: left;
 }
 footer li a:hover {
     color:  #D7CCC8;
