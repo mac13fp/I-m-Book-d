@@ -160,7 +160,6 @@ footer ul {
 }
 footer li {
     display: inline-block;
-    line-height: 1;
 }
 footer li a {
     border-radius: 4px;
