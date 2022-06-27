@@ -287,8 +287,6 @@ footer li a:hover {
 .main-content img,|
 .side-content img {
     width: 100%;
-   padding: 1rem;
-   margin: auto;
 }
 .main-content {
     border-radius: 4px;
