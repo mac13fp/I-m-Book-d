@@ -288,6 +288,7 @@ footer li a:hover {
 .side-content img {
     width: 100%;
    padding: 1rem;
+   margin: auto;
 }
 .main-content {
     border-radius: 4px;
@@ -319,8 +320,7 @@ footer li a:hover {
     text-align: center;
 }
 .side-content a {
-    padding-right: .5rem;
-    padding-left: .5rem;
+    padding: 0;
 }
 @media screen and (min-width: 64em){
     body {
