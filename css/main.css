@@ -154,7 +154,7 @@ footer p {
 footer ul {
     margin: 0;
     padding: 0;
-    list-style: none;
+    list-style-type: none;
 }
 footer li {
     display: inline-block;
@@ -318,6 +318,9 @@ footer li a:hover {
     padding: .5rem;
     text-align: center;
 }
+.side-content a {
+    padding-right: .5rem;
+    padding-left: .5rem;
 }
 @media screen and (min-width: 64em){
     body {
@@ -334,6 +337,7 @@ footer li a:hover {
     .logo {
         float: left;
         height: 5rem;
+        width: 100%;
     }
     header ul {
         float: right;
