@@ -155,8 +155,9 @@ footer p {
 }
 footer ul {
     margin: 0;
-    padding: 1rem;
+    padding: 0;
     list-style-type: none;
+    line-height: 1rem;
 }
 footer li {
     display: inline-block;
